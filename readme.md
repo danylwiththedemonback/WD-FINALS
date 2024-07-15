@@ -12,8 +12,7 @@
 </div>
 
 <div align="center">
- This project showcases various features and functionalities designed to enhance user experience. Explore Feature 1 and Feature 2 to see the implementations in action.
-</div>
+ This project showcases various features and functionalities designed to enhance user experience. 
 
 <br />
 
