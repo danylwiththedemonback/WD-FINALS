@@ -133,3 +133,7 @@ wait for the Home page to load then you will have four buttons you can choose be
 ## Wakatime integration
 
 https://wakatime.com/projects/WD-FINALS?start=2024-07-09&end=2024-07-15
+
+## Deploymeny link
+
+https://danylwiththedemonback.github.io/WD-FINALS/index.html
