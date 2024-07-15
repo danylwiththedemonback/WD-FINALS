@@ -53,12 +53,9 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-
-Description of the project in details.
-
 Guiding Question:
 
-- What is the project : The project is about creating apersonal website that demonstrates our design skills and web development knowledge. The website includes  5 pages, showcasing distinct layouts for various features. This serve as a portfolio showcasing your skills and past projects.
+- What is the project : The project is about creating a personal website that demonstrates our design skills and web development knowledge. The website includes  5 pages, showcasing distinct layouts for various features. This serve as a portfolio showcasing your skills and past projects.
 
 - Whats the purpose: To enhance and development skills techniques in web design and development.
 
