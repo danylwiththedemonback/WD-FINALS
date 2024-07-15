@@ -121,7 +121,6 @@ WD-ProjectName
 | --------- | ---------------------------------------------- | -------------------------------------------------- |
 | FONTS     | Applying style fonts to make the font better.  | https://fonts.google.com/selection/embed           |
 | Youtube   | Getting ideas and tutorial for different style | https://www.youtube.com/watch?v=6KSKn9xIxUQ&t=518s |
-| TIMBERLANDS | Get some ideas for styling and animation.    | https://www.timberland.com/en-us                   |
 | w3schools | Learn some codes in css and how it works.      | https://www.w3schools.com/csS/css_boxmodel.asp     |
 | GOOGLE    | Get some ideas for styling and animation.      | https://devdevout.com/css/css-cards                |
 | Pinterest  | Get some ideas for styling and animation.    | https://www.pinterest.com/search/pins/?q=web%20page%20to%20identify&rs=typed
@@ -134,6 +133,6 @@ wait for the Home page to load then you will have four buttons you can choose be
 
 https://wakatime.com/projects/WD-FINALS?start=2024-07-09&end=2024-07-15
 
-## Deploymeny link
+## Deployment link
 
 https://danylwiththedemonback.github.io/WD-FINALS/index.html
